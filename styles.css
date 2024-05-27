@@ -1,0 +1,18 @@
+body {
+  background-color: #cce3de;
+  height: 100%;
+}
+
+form {
+  width: 28%;
+  margin: auto;
+  padding-top: 150px;
+}
+
+.bg {
+  background-color: #6b9080;
+}
+.btn-color {
+  background: #fff;
+  border: none;
+}
